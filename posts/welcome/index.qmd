@@ -1,9 +1,11 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+author: "Tze Woei Chong"
 date: "2025-06-09"
-categories: [news]
+categories: [news, code, analysis]
 ---
+
+This is a post with executable code.
 
 This is the first post in a Quarto blog. Welcome!
 
