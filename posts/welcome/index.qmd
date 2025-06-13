@@ -9,6 +9,6 @@ This is a post with executable code.
 
 This is the first post in a Quarto blog. Welcome!
 
-![](thumbnail.jpg)
+![](images/clipboard-4015019403.jpeg)
 
 Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
